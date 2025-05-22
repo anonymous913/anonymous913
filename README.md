@@ -9,7 +9,7 @@
 
 ## 🚀 Favorite Project
 
-- [test-ab](https://github.com/anonymous913/test-ab) – My favorite project where I experiment, learn, and build!
+- [rest-countries](https://rest-countries-fawn-nu.vercel.app/) – My favorite project where I experiment, learn, and build!
 
 ## 🌱 What I Love
 
